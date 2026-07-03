@@ -1,0 +1,18 @@
+[
+  {
+    "FullName": "Paracetamol",
+    "Notes": "Pain reliever",
+    "ExpiryDate": "2026-08-01T00:00:00",
+    "Quantity": 25,
+    "Price": 12.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "FullName": "string",
+    "Notes": "string",
+    "ExpiryDate": "2026-07-02T19:33:53.851Z",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": "string"
+  }
+]

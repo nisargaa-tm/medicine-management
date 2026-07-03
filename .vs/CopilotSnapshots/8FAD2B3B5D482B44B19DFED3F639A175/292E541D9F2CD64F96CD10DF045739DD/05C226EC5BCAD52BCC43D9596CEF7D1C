@@ -1,0 +1,62 @@
+﻿import { Component, OnInit } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { MedicineService } from '../services/medicine.service';
+import { Medicine } from '../models/medicine';
+import { FormsModule } from '@angular/forms';
+
+@Component({
+  selector: 'app-medicines',
+  standalone: true,
+  imports: [CommonModule, FormsModule],
+  templateUrl: './medicines.html',
+  styleUrls: ['./medicines.css']
+})
+export class MedicinesComponent implements OnInit {
+  medicines: Medicine[] = [];
+  searchTerm: string = '';
+  newMedicine: Medicine = {
+    fullName: '',
+    notes: '',
+    expiryDate: '',
+    quantity: 0,
+    price: 0,
+    brand: ''
+  };
+
+  constructor(private medicineService: MedicineService) { }
+
+  ngOnInit(): void {
+    this.loadMedicines();
+  }
+
+  loadMedicines(): void {
+    this.medicineService.getAll().subscribe(data => {
+      this.medicines = data;
+    });
+  }
+
+  daysLeft(date: string): number {
+    const expiry = new Date(date).getTime();
+    const now = new Date().getTime();
+    return (expiry - now) / (1000 * 60 * 60 * 24);
+  }
+
+  search(): void {
+    if (this.searchTerm.trim() === '') {
+      this.loadMedicines(); // fallback to all
+    } else {
+      this.medicineService.search(this.searchTerm).subscribe(data => {
+        this.medicines = data;
+      });
+    }
+  }
+
+  
+
+addMedicine(): void {
+  this.medicineService.add(this.newMedicine).subscribe(med => {
+    this.medicines.push(med);
+    this.newMedicine = { fullName: '', notes: '', expiryDate: '', quantity: 0, price: 0, brand: '' };
+  });
+}
+}

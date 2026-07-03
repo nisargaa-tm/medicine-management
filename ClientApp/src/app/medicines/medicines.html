@@ -1,0 +1,30 @@
+<input type="text" [(ngModel)]="searchTerm" placeholder="Search by name" />
+<button (click)="search()">Search</button>
+
+<table *ngIf="medicines.length > 0">
+  <tr>
+    <th>Name</th>
+    <th>Expiry</th>
+    <th>Quantity</th>
+    <th>Price</th>
+    <th>Brand</th>
+  </tr>
+  <tr *ngFor="let m of medicines"
+      [ngClass]="{'expired': daysLeft(m.expiryDate) < 30, 'low-stock': m.quantity < 10}">
+    <td>{{ m.fullName }}</td>
+    <td>{{ m.expiryDate | date }}</td>
+    <td>{{ m.quantity }}</td>
+    <td>{{ m.price | number:'1.2-2' }}</td>
+    <td>{{ m.brand }}</td>
+  </tr>
+</table>
+<h3>Add New Medicine</h3>
+<form (ngSubmit)="addMedicine()" #medicineForm="ngForm">
+  <input type="text" [(ngModel)]="newMedicine.fullName" name="fullName" placeholder="Name" required />
+  <input type="text" [(ngModel)]="newMedicine.brand" name="brand" placeholder="Brand" />
+  <input type="number" [(ngModel)]="newMedicine.quantity" name="quantity" placeholder="Quantity" />
+  <input type="number" [(ngModel)]="newMedicine.price" name="price" placeholder="Price" />
+  <input type="date" [(ngModel)]="newMedicine.expiryDate" name="expiryDate" />
+  <textarea [(ngModel)]="newMedicine.notes" name="notes" placeholder="Notes"></textarea>
+  <button type="submit">Add Medicine</button>
+</form>

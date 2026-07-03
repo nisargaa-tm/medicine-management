@@ -1,0 +1,31 @@
+﻿import { Component, OnInit } from '@angular/core';
+import { MedicineService } from '../services/medicine.service';
+import { Medicine } from '../models/medicine';
+import { DatePipe } from 
+
+@Component({
+  selector: 'app-medicines',
+  templateUrl: './medicines.html',
+  styleUrls: ['./medicines.css']
+})
+export class MedicinesComponent implements OnInit {
+  medicines: Medicine[] = [];
+
+  constructor(private medicineService: MedicineService) { }
+
+  ngOnInit(): void {
+    this.loadMedicines();
+  }
+
+  loadMedicines(): void {
+    this.medicineService.getAll().subscribe(data => {
+      this.medicines = data;
+    });
+  }
+
+  daysLeft(date: string): number {
+    const expiry = new Date(date).getTime();
+    const now = new Date().getTime();
+    return (expiry - now) / (1000 * 60 * 60 * 24);
+  }
+}

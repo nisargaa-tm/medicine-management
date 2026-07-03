@@ -1,0 +1,34 @@
+[
+  {
+    "FullName": "Paracetamol",
+    "Notes": "Pain reliever",
+    "ExpiryDate": "2026-08-01T00:00:00",
+    "Quantity": 25,
+    "Price": 12.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "FullName": "string",
+    "Notes": "string",
+    "ExpiryDate": "2026-07-02T19:33:53.851Z",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": "string"
+  },
+  {
+    "FullName": "Dolo",
+    "Notes": "ABC",
+    "ExpiryDate": "2026-07-16T00:00:00",
+    "Quantity": 30,
+    "Price": 100,
+    "Brand": ""
+  },
+  {
+    "FullName": "abc",
+    "Notes": "",
+    "ExpiryDate": "2026-08-29T00:00:00",
+    "Quantity": 10,
+    "Price": 80,
+    "Brand": "abc"
+  }
+]

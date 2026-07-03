@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\NISARGA\\MedicineAppAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\medicines\\medicines.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\medicines\\medicines.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\medicines\\medicines.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\medicines\\medicines.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\services\\medicine.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\services\\medicine.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\medicines\\medicines.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\medicines\\medicines.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\clientapp\\src\\app\\models\\medicine.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:clientapp\\src\\app\\models\\medicine.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|d:\\users\\nisarga\\medicineappassignment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98375F-907B-4C6A-85EC-D4A6BC4E218D}|MedicineAppAssignment.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\.gitignore",
+              "RelativeDocumentMoniker": "ClientApp\\.gitignore",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\.gitignore",
+              "RelativeToolTip": "ClientApp\\.gitignore",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-03T06:03:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\main.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\main.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\main.ts",
+              "RelativeToolTip": "ClientApp\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T20:10:58.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.html",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\app.html",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.html",
+              "RelativeToolTip": "ClientApp\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-07-02T20:08:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\index.html",
+              "RelativeDocumentMoniker": "ClientApp\\src\\index.html",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\index.html",
+              "RelativeToolTip": "ClientApp\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-07-02T19:59:08.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "medicines.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\medicines\\medicines.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\medicines\\medicines.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\medicines\\medicines.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\medicines\\medicines.ts",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:31:13.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medicines.html",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\medicines\\medicines.html",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\medicines\\medicines.html",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\medicines\\medicines.html",
+              "RelativeToolTip": "ClientApp\\src\\app\\medicines\\medicines.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-07-02T19:30:46.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\app.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:39:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "medicine.service.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\services\\medicine.service.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\services\\medicine.service.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\services\\medicine.service.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\services\\medicine.service.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:28:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\app.config.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.config.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:41:07.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\app.routes.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:41:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.routes.server.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.routes.server.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\app.routes.server.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\app.routes.server.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\app.routes.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:55:19.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "medicines.css",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\medicines\\medicines.css",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\medicines\\medicines.css",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\medicines\\medicines.css",
+              "RelativeToolTip": "ClientApp\\src\\app\\medicines\\medicines.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-02T19:32:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicinesController.cs",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T19:03:00.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "medicine.ts",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\models\\medicine.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\models\\medicine.ts",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\ClientApp\\src\\app\\models\\medicine.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\models\\medicine.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-02T19:27:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T18:59:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "medicines.json",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Data\\medicines.json",
+              "RelativeDocumentMoniker": "Data\\medicines.json",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Data\\medicines.json",
+              "RelativeToolTip": "Data\\medicines.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-02T19:06:44.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Services\\MedicineService.cs",
+              "RelativeDocumentMoniker": "Services\\MedicineService.cs",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Services\\MedicineService.cs",
+              "RelativeToolTip": "Services\\MedicineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T19:04:58.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Models\\Medicine.cs",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\Models\\Medicine.cs",
+              "RelativeToolTip": "Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T19:01:47.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Users\\NISARGA\\MedicineAppAssignment\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Users\\NISARGA\\MedicineAppAssignment\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T18:59:28.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

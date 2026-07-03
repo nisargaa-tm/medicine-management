@@ -1,0 +1,18 @@
+.expired {
+  background-color: red;
+  color: white;
+}
+
+.low-stock {
+  background-color: yellow;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
