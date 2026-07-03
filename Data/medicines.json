@@ -8,14 +8,6 @@
     "Brand": "ABC Pharma"
   },
   {
-    "FullName": "string",
-    "Notes": "string",
-    "ExpiryDate": "2026-07-02T19:33:53.851Z",
-    "Quantity": 0,
-    "Price": 0,
-    "Brand": "string"
-  },
-  {
     "FullName": "Dolo",
     "Notes": "ABC",
     "ExpiryDate": "2026-07-16T00:00:00",
@@ -29,6 +21,14 @@
     "ExpiryDate": "2026-08-29T00:00:00",
     "Quantity": 10,
     "Price": 80,
+    "Brand": "abc"
+  },
+  {
+    "FullName": "XYZ",
+    "Notes": "less Quantity",
+    "ExpiryDate": "2026-09-23T00:00:00",
+    "Quantity": 2,
+    "Price": 10,
     "Brand": "abc"
   }
 ]
